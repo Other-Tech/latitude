@@ -1,4 +1,1 @@
-this is index file
-
-
-
+console.log(333)
